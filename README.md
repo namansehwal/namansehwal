@@ -27,4 +27,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namansehwal&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
+<p align="left"> 
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=namansehwal&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
