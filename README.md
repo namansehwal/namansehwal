@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🤝 &nbsp; I’m looking to collaborate on Quant-Finance
 - 🌱 &nbsp; I’m currently learning VueJS; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/namansehwal/)
 
 
 <br>
