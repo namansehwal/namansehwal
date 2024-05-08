@@ -29,4 +29,4 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <p align="left"> 
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=namansehwal&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=namansehwal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_View_Count" /> </p>
