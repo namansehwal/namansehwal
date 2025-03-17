@@ -60,11 +60,3 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/namansehwal) or [X formerly Twitter](https://x.com/naman_sehwal). 
-  
-
-
-
-
-<br>
-<p align="left"> 
-  <br><br>
